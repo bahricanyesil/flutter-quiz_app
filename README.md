@@ -1,6 +1,6 @@
-# flutter_ultimate_guide
+# quiz_app
 
-A new Flutter project.
+It is my first mobile application that I have built by using flutter. A simple quiz app.
 
 ## Getting Started
 

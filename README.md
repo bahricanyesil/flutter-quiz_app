@@ -2,6 +2,8 @@
 
 It is my first mobile application that I have built by using flutter. A simple quiz app.
 
+![Simple quiz app](https://github.com/bahricanyesil/flutter-quiz_app/blob/master/screenshots/Quiz.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
